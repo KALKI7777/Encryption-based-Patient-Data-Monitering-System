@@ -18,7 +18,7 @@ It supports **doctor login**, **receptionist login**, patient records, and **enc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/hospital-management.git
+git clone https://github.com/KALKI7777/Encryption-based-Patient-Data-Monitering-System.git
 cd hospital-management
 ```
 
